@@ -11,6 +11,7 @@ An open, versioned, multilingual learning infrastructure for the Latin American 
 ## Start here
 
 - [Español](README.es.md) · [English](README.md) · [Português](README.pt-BR.md)
+- [Biblioteca Luterana · Multilingual reference library](biblioteca/README.md)
 - [The Enchiridion](content/enchiridion/README.md)
 - [Curriculum and translation contract](docs/CONTENT-CONTRACT.md)
 - [Contribution guide](CONTRIBUTING.md)
@@ -29,6 +30,7 @@ An open, versioned, multilingual learning infrastructure for the Latin American 
 
 ```text
 apps/handbook/         static 9:16 learning interface
+biblioteca/            curated multilingual library catalog
 content/enchiridion/   catechism learning modules (not unattributed editions)
 content/lessons/       language-independent lesson metadata
 i18n/                  localized interface and lesson content
