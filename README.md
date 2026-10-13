@@ -17,6 +17,20 @@ An open, versioned, multilingual learning infrastructure for the Latin American 
 - [Contribution guide](CONTRIBUTING.md)
 - [Learning interface](apps/handbook/index.html)
 
+## Fork it. Clone it. Teach it. ♻️
+
+**Clone to learn. Fork to make it your own.**
+
+[**🍴 Fork this repository**](https://github.com/MYaelMendez/teologia/fork) · [**📥 Clone / Download**](https://github.com/MYaelMendez/teologia) · [**Guide: Fork vs Clone**](docs/FORK-AND-CLONE.md)
+
+```bash
+git clone https://github.com/MYaelMendez/teologia.git
+```
+
+Fork for your family, classroom, congregation or community. Cite the sources, preserve provenance, and share improvements upstream. Forks do not inherit institutional or doctrinal approval.
+
+**#OpenSourceSince1517** · Learn → Build → Fork → Teach → Share ↺
+
 ## Principles
 
 1. **Scripture and confessional fidelity:** cite primary sources and editions; distinguish canonical text from commentary.
