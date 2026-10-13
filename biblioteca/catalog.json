@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Starter bibliographic records; no digitized edition is hosted by these entries.",
+  "records": [
+    {
+      "id": "luther-small-catechism-1529",
+      "type": "work",
+      "collection": "catechisms",
+      "titles": {
+        "en": "Small Catechism",
+        "es": "Catecismo Menor",
+        "pt-BR": "Catecismo Menor"
+      },
+      "creator": "Martin Luther",
+      "original_year": 1529,
+      "original_language": "de",
+      "edition": "Not selected",
+      "source_url": null,
+      "rights": "Edition-specific; verify before reuse",
+      "review_status": "draft",
+      "digital_copy_available": false
+    },
+    {
+      "id": "book-of-concord-1580",
+      "type": "work",
+      "collection": "confessions",
+      "titles": {
+        "en": "Book of Concord",
+        "es": "Libro de Concordia",
+        "pt-BR": "Livro de Concórdia"
+      },
+      "creator": "Multiple contributors",
+      "original_year": 1580,
+      "original_language": "de",
+      "edition": "Not selected",
+      "source_url": null,
+      "rights": "Edition-specific; verify before reuse",
+      "review_status": "draft",
+      "digital_copy_available": false
+    },
+    {
+      "id": "luther-large-catechism-1529",
+      "type": "work",
+      "collection": "catechisms",
+      "titles": {
+        "en": "Large Catechism",
+        "es": "Catecismo Mayor",
+        "pt-BR": "Catecismo Maior"
+      },
+      "creator": "Martin Luther",
+      "original_year": 1529,
+      "original_language": "de",
+      "edition": "Not selected",
+      "source_url": null,
+      "rights": "Edition-specific; verify before reuse",
+      "review_status": "draft",
+      "digital_copy_available": false
+    }
+  ]
+}
